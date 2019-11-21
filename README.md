@@ -20,3 +20,5 @@ archivos
 ##Configurando Git hub
 1.usarcomandos
 
+Las ramas se pueden crear desde cualquier rama no es solo crear desde la rama principal
+
