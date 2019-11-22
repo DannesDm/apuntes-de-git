@@ -24,6 +24,5 @@ archivos
 
 Esta linea fue creada en la rama master
 
-Las ramas se pueden crear desde cualquier rama no es solo crear desde la rama principal
 
 
