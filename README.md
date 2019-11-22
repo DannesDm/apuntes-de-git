@@ -24,5 +24,5 @@ archivos
 
 Esta linea fue creada en la rama master
 
-
+Esta linea se agrego desde un equipo de windows conectando al repositorio local
 
